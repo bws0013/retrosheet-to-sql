@@ -1,0 +1,78 @@
+{
+  "id": "ANA201808100",
+  "version": 2,
+  "info": {
+    "visteam": "OAK",
+    "hometeam": "ANA"
+  },
+  "start": [
+    {
+      "player_code": "martn003",
+      "name": "Nick Martini",
+      "home_field_indicator": 0,
+      "batting_order": 1,
+      "field_position": 7
+    },
+    {
+      "player_code": "chapm001",
+      "name": "Matt Chapman",
+      "home_field_indicator": 0,
+      "batting_order": 2,
+      "field_position": 5
+    }
+  ],
+  "plays": [
+    {
+      "inning_number": 1,
+      "home_field_indicator": 0,
+      "player_code": "martn003",
+      "count_at_action": "11",
+      "all_pitches": "CBX",
+      "play_events": "7/L"
+    },
+    {
+      "inning_number": 1,
+      "home_field_indicator": 0,
+      "player_code": "chapm001",
+      "count_at_action": "22",
+      "all_pitches": "BBCFX",
+      "play_events": "HR/8/F"
+    },
+    {
+      "inning_number": 3,
+      "home_field_indicator": 1,
+      "player_code": "uptoj001",
+      "count_at_action": "12",
+      "all_pitches": "1C1FFFBX",
+      "play_events": "S6/G-.1-2",
+    }
+  ],
+  "subs": [
+    {
+      "player_code": "johnj010",
+      "player_name": "Jim Johnson",
+      "home_field_indicator": 1,
+      "batting_order": 0,
+      "field_position": 1
+    },
+    {
+      "player_code": "trivl001",
+      "player_name": "Lou Trivino",
+      "home_field_indicator": 0,
+      "batting_order": 0,
+      "field_position": 1
+    }
+  ],
+  "data": [
+    {
+      "type": "er",
+      "player_code": "trivl001",
+      "runs_earned": 2
+    },
+    {
+      "type": "er",
+      "player_code": "rodnf001",
+      "runs_earned": 0
+    }
+  ]
+}

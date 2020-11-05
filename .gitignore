@@ -1,0 +1,11 @@
+secrets/
+storage/
+ignore
+code/*.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pickle
+*.in
